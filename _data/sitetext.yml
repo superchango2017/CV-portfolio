@@ -6,16 +6,16 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Technical documentation"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "API documentation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "User manuals"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Tutorials"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown 
 
