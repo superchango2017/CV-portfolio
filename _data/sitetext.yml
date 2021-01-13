@@ -33,10 +33,10 @@ timeline:
       - title: "Technical Writer at Thought Machine, London"
         year: "Aug 2018 - Aug 2019"
         desc: "Documented core banking APIs and smart contracts using annotated Google Protocol buffer and Python files and Markdown."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2-TM.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
+      - title: "Technical Writer at Discover Financial Services, London"
         year: "2019"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
