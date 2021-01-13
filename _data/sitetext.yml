@@ -17,13 +17,7 @@ services:
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
-portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    
+        icon: fab fa-markdown 
 
 timeline:
     title: "CV" 
@@ -55,6 +49,11 @@ timeline:
         alt: 
         align: right
     end: "Be Part <br> of Our <br> Story!"
+
+portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
 
 about:
     title: "About Us"
