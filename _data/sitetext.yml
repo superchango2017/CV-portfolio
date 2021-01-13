@@ -24,11 +24,10 @@ timeline:
     text: "Lorem ipsum timeline"
     section: timeline
     events:
-      - title: "Technical API Engineer at KPN API Store"
+      - title: "Technical API Engineer at KPN API Store, Rotterdam"
         year: "Sep 2019 - Jan 2021"
-        desc: "Documented APIs for KPN’s API Store, which provides a portfolio of reliable and secure APIs for both consumer and business to business markets. </br>
-        * API doucmentation"
-        image: assets/img/timeline/KPN.jpg/br
+        desc: "Documented APIs for KPN’s API Store, which provides a portfolio of reliable and secure APIs for both consumer and business to business markets."
+        image: assets/img/timeline/1-KPN.jpg/br
         alt: 
         align: left
       - title: "An Agency is Born"
