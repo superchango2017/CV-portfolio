@@ -26,9 +26,9 @@ timeline:
     events:
       - title: "Technical API Engineer at KPN API Store"
         year: "Sep 2019 - Jan 2021"
-        desc: "KPN’s API Store provides a portfolio of reliable and secure APIs for both consumer and business to business markets. </br>
+        desc: "Documented APIs for KPN’s API Store, which provides a portfolio of reliable and secure APIs for both consumer and business to business markets. </br>
         * API doucmentation"
-        image: assets/img/timeline/1.jpg/br
+        image: assets/img/timeline/KPN.jpg/br
         alt: 
         align: left
       - title: "An Agency is Born"
