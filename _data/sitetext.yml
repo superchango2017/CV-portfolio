@@ -42,12 +42,18 @@ timeline:
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Technical Writer at Inmarsat, London"
+        year: "January 2017 to May 2017"
+        desc: "Developed a design document for a digital platform as part of a DevOps team, which provides satellite internet services on a fleet of vessels controlled from shore side: Networking solution with DPI, tunnelling, routing management and policy enforcement Virtualisation, APIs."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
+      - title: "Technical Writer at Discover Financial Services, London"
+        year: "May 2017 to August 2018"
+        desc: "Terminal."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        #align: #default is left  
     end: "Be Part <br> of Our <br> Story!"
 
 portfolio:
