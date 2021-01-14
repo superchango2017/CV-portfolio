@@ -1,6 +1,6 @@
 header:
     title: CV and portfolio
-    text: Klaus Frey - Technical Writer
+    text: Technical Documentation
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
