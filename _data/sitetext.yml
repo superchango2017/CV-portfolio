@@ -37,19 +37,19 @@ timeline:
         alt: 
         align: right
       - title: "Technical Writer at Discover Financial Services, London"
-        year: "May 2017 to August 2018"
+        year: "May 2017 to Aug 2018"
         desc: "Quality and editorial review of Discover Payment Application (D-PAS) specifications, functional test plans, and Card Image guides for Contact Card, Contactless Card, Mobile and Terminal."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
       - title: "Technical Writer at Inmarsat, London"
-        year: "January 2017 to May 2017"
+        year: "Jan 2017 to May 2017"
         desc: "Developed a design document for a digital platform as part of a DevOps team, which provides satellite internet services on a fleet of vessels controlled from shore side: Networking solution with DPI, tunnelling, routing management and policy enforcement Virtualisation, APIs."
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
       - title: "Technical Writer at Visa Europe, London"
-        year: "August 2015 to December 2016"
+        year: "Aug 2015 to Dec 2016"
         desc: "Developed topic-based technical documentation for electronic payments solutions: Tokenisation (Apple Pay, Android Pay) authorisation processing, clearing and settlement Service Activation Guides, API reference guides."
         image: assets/img/timeline/3.jpg
         alt: image alt text
