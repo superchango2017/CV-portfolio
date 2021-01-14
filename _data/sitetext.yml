@@ -37,8 +37,8 @@ timeline:
         alt: 
         align: right
       - title: "Technical Writer at Discover Financial Services, London"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        year: "May 2017 to August 2018"
+        desc: "•	Quality and editorial review of Discover Payment Application (D-PAS) specifications, functional test plans, and Card Image guides for Contact Card, Contactless Card, Mobile and Terminal."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
