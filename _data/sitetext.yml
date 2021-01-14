@@ -48,9 +48,9 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-      - title: "Technical Writer at Discover Financial Services, London"
-        year: "May 2017 to August 2018"
-        desc: "Terminal."
+      - title: "Technical Writer at Visa Europe, London"
+        year: "August 2015 to December 2016"
+        desc: "Developed topic-based technical documentation for electronic payments solutions: Tokenisation (Apple Pay, Android Pay) authorisation processing, clearing and settlement Service Activation Guides, API reference guides."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left  
