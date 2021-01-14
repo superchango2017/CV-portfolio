@@ -1,6 +1,6 @@
 header:
-    title: Welcome to my CV and portfolio!
-    text: It's Nice To Meet You
+    title: CV and portfolio
+    text: Klaus Frey - Technical Writer
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
