@@ -33,12 +33,12 @@ timeline:
       - title: "Technical Writer at Thought Machine, London"
         year: "Aug 2018 - Aug 2019"
         desc: "Documented core banking APIs and smart contracts using annotated Google Protocol buffer and Python files and Markdown."
-        image: assets/img/timeline/2-TM.jpg
+        image: assets/img/timeline/2.jpg
         alt: 
         align: right
       - title: "Technical Writer at Discover Financial Services, London"
         year: "May 2017 to August 2018"
-        desc: "•	Quality and editorial review of Discover Payment Application (D-PAS) specifications, functional test plans, and Card Image guides for Contact Card, Contactless Card, Mobile and Terminal."
+        desc: "Quality and editorial review of Discover Payment Application (D-PAS) specifications, functional test plans, and Card Image guides for Contact Card, Contactless Card, Mobile and Terminal."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
