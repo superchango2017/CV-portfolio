@@ -54,6 +54,11 @@ timeline:
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left  
+      - title: "Technical Writer at Trayport, London"
+        year: "Aug 2015 to Dec 2016"
+        desc: "Developed topic-based technical documentation for electronic payments solutions: Tokenisation (Apple Pay, Android Pay) authorisation processing, clearing and settlement Service Activation Guides, API reference guides."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
     end: "Be Part <br> of Our <br> Story!"
 
 portfolio:
